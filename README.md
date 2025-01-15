@@ -2,6 +2,10 @@
 
 A lightweight, protocol-oriented networking library for iOS applications. This library provides a clean and flexible way to make network requests with type-safe responses.
 
+## Inspiration
+
+    https://medium.com/getir/writing-a-modern-ios-networking-library-with-swift-concurrency-bb1cdbf12725
+
 ## Features
 
 - Protocol-oriented design
@@ -66,6 +70,3 @@ let networking = Networking(
 - iOS 13.0+
 - Swift 6.0+
 
-## License
-
-This library is released under the MIT license. See [LICENSE](LICENSE) for details.
